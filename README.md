@@ -18,7 +18,7 @@ api_final позвозяет взаимодествовать с базами д
 git clone https://github.com/Aleksei93/api_final_yatube.git
 ```
 ```
-cd kittygram
+cd api_final_yatube
 ```
 Cоздать и активировать виртуальное окружение:
 ```
@@ -66,7 +66,15 @@ python3 manage.py runserver
   - POST http://127.0.0.1:8000/api/v1/jwt/verify/
   
 
+## :satellite: Технологии: 
+  
+  - Python
+  - Django REST Framework
+  - API REST
+  - Postman
+  - Simple-JWT
   
   
+## :office_worker: Об авторе: 
   
-  
+Автор проекта [Плотников Алексей](https://github.com/Aleksei93).
